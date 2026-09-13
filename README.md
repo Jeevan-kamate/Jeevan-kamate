@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently iam pursuing Data science at BIET Davanagere<br>Aspiring Data analyst | python - Pandas and numpy | SQL | NoSQL | 
+Currently iam pursuing Data science at BIET Davanagere<br>Aspiring Data analyst role  
 
 
 ## 🌐 Socials:
